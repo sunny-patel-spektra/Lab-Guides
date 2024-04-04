@@ -1,0 +1,13 @@
+[
+  {
+    Name: "Inline Validation",
+    Languages: "English",
+    BaseURL: "https://github.com/sunny-patel-spektra/Lab-Guides",
+    Files: [
+      {
+        RawFilePath: "https://raw.githubusercontent.com/sunny-patel-spektra/Lab-Guides/main/QA/InlineValidationTest.md",
+        Order: 1
+      }
+    ]
+  }
+]
